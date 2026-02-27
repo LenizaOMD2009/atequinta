@@ -3,7 +3,7 @@
 namespace app\controller;
 
 use app\database\builder\InsertQuery;
-use app\database\builder\DeleteQuery;
+//use app\database\builder\DeleteQuery;
 use app\database\builder\SelectQuery;
 use app\database\builder\UpdateQuery;
 
